@@ -386,7 +386,7 @@ MIT License - see LICENSE file for details
 - [face_recognition](https://github.com/ageitgey/face_recognition) library by Adam Geitgey
 - OpenCV community for computer vision tools
 - TensorFlow team for deep learning framework
-
+------
 ## Citations
 ```bibtex
 @article{face_recognition_system,
