@@ -337,7 +337,7 @@ face_recognition.face_encodings(image, num_jitters=1, model='large')
 ```
 
 ## File Structure
-```
+```----
 face-recognition-system/
 ├── face_recognition_system.py
 ├── requirements.txt
