@@ -362,7 +362,7 @@ face-recognition-system/
     ├── basic_recognition.py
     ├── attendance_system.py
     └── web_api.py
-```
+```-------
 
 ## Security Considerations
 - **Data Privacy**: Encrypt stored face encodings
