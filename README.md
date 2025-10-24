@@ -260,7 +260,7 @@ def recognize_api():
     _, results = fr_system.recognize_faces_in_image(temp_path)
     
     return jsonify(results)
-```
+```------
 
 ### Database Integration
 ```python
