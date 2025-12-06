@@ -2,7 +2,7 @@
 
 ## Overview
 A comprehensive face recognition system with multiple implementation methods including traditional face recognition algorithms, SVM classification, and deep learning CNN models. Features real-time recognition, attendance tracking, and high-accuracy identification.
-
+----
 ## Features
 - **Multiple Recognition Methods**: Face_recognition library, SVM, CNN
 - **Real-time Processing**: Live webcam face recognition
